@@ -106,7 +106,7 @@ The evaluation form for a coder is as below:
 
 ## **Solution**
 
-Language Programming: Python [*link*](#algorithm\Python\code.py)
+Language Programming: Python [*(link)*](#assessment_ZC\algorithm\Python\code.py)
 
 
 
