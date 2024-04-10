@@ -2,6 +2,8 @@
 
 ## **Table of Content**
 
+- [Challenge: Mini - Max Sum](#challenge-mini---max-sum)
+  - [**Table of Content**](#table-of-content)
   - [**Problem**](#problem)
     - [**Input**](#input)
     - [**Output**](#output)
@@ -104,7 +106,8 @@ The evaluation form for a coder is as below:
 
 ## **Solution**
 
-Language Programming: Python, C++ 
+Language Programming: Python [*link*](#algorithm\Python\code.py)
+
 
 
 
