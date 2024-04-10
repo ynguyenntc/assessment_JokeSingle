@@ -7,3 +7,7 @@
 - [Front end](./frontend)
 
 **My website to check the test:** [link](https://ynguyenntc.github.io/jokegithub/)
+
+**UI:**
+
+![Jokee Page](photo.png)
